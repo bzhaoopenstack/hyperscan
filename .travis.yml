@@ -3,6 +3,7 @@ dist: bionic
 
 arch:
   - arm64
+  - x86
 
 addons:
   apt:
