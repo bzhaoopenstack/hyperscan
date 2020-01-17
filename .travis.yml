@@ -8,8 +8,6 @@ arch:
 addons:
   apt:
     update: true
-  hosts:
-    - node2
 
 language: 
   - c++
